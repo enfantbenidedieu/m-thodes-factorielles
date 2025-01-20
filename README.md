@@ -1,2 +1,1 @@
-# Méthodes factorielles
-Analyse Exploratoire Multidimensionnelle des données - Théorie et application sous Python
+# Méthodes d'Analyse Factorielle (MAF) : Python/R/Julia
